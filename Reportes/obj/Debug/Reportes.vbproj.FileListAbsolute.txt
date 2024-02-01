@@ -1,0 +1,30 @@
+D:\Proyectos\Rentas\Reportes\bin\Debug\Reportes.dll
+D:\Proyectos\Rentas\Reportes\bin\Debug\Reportes.pdb
+D:\Proyectos\Rentas\Reportes\bin\Debug\Reportes.xml
+D:\Proyectos\Rentas\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Rentas\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Proyectos\Rentas\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Proyectos\Rentas\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Proyectos\Rentas\Reportes\obj\Debug\Reportes.dll
+D:\Proyectos\Rentas\Reportes\obj\Debug\Reportes.xml
+D:\Proyectos\Rentas\Reportes\obj\Debug\Reportes.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\bin\Debug\Reportes.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\bin\Debug\Reportes.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\bin\Debug\Reportes.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\obj\Debug\Reportes.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\obj\Debug\Reportes.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reportes\obj\Debug\Reportes.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\bin\Debug\Reportes.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\bin\Debug\Reportes.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\bin\Debug\Reportes.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\obj\Debug\Reportes.FrmReporte.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\obj\Debug\Reportes.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\obj\Debug\Reportes.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reportes\obj\Debug\Reportes.pdb

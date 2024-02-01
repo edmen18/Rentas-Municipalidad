@@ -1,0 +1,401 @@
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\GUIRentas.exe.config
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.exe
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.xml
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.pdb
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\GUIRentas.exe
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\GUIRentas.pdb
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\GUIRentas.xml
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Datos.dll
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Reglas.dll
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Reportes.dll
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Datos.pdb
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Datos.xml
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Reportes.pdb
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Reportes.xml
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Reglas.pdb
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Release\Reglas.xml
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmAbout.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmBackup.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmBuscarCliente.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmCancelarOP.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmClases.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmCliente.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmCondicion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmConsultaEmpoces.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmConsultaExtorno.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmConsultaHRPU.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmConsultaOrdenPago.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmConsultaServicios.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmConsultaVenta.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmCuentas.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmDepreciacion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmDJAutovaluo.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmEmpoce.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmEstadoConserv.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmEvaluacionPredio.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmExtorno.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmFactorReajuste.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.Frmgrupo.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmInicioSesion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmMontoMinimo.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmMotivosDJ.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmOrdenPago.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmPagos.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmPredio.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmPredios.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmPrueba.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmRealizaVenta.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmRegistroEmpoce.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmRegistroExtorno.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmRegistros.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.Frmreportes.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmReportesPredial.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmRestauraBD.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmTipoEdificacion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmTrimestres.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmUsuarios.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.FrmZona.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.MdiPrincipal.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.Resources.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.RegistroProducto.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.Splash.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.vbproj.GenerateResource.Cache
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Release\GUIRentas.exe.licenses
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\GUIRentas.exe.config
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\GUIRentas.exe
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\GUIRentas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\GUIRentas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Reportes.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Datos.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Reportes.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Reportes.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Release\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmAbout.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBackup.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBuscarCliente.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCancelarOP.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCategorias.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmClases.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCliente.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCondicion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaEmpoces.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaExtorno.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaHRPU.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaOrdenPago.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaServicios.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaVenta.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCuentas.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDepreciacion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDJAutovaluo.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEmpoce.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEstadoConserv.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEvaluacionPredio.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmExtorno.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmFactorReajuste.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.Frmgrupo.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmInicioSesion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMontoMinimo.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMotivosDJ.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmOrdenPago.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPagos.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredio.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredios.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPrueba.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRealizaVenta.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroEmpoce.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroExtorno.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistros.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.Frmreportes.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmReportesPredial.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRestauraBD.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTipoEdificacion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTrimestres.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmUsuarios.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmValoresUnitarios.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.FrmZona.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.MdiPrincipal.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.RegistroProducto.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.Splash.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.exe.licenses
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.exe
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Release\GUIRentas.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\GUIRentas.exe.config
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.exe
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\GUIRentas.exe
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\GUIRentas.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\GUIRentas.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Datos.dll
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Reglas.dll
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Reportes.dll
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Datos.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Datos.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Reportes.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Reportes.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Reglas.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\bin\Release\Reglas.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\ResolveAssemblyReference.cache
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmAbout.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBackup.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBuscarCliente.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCancelarOP.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCategorias.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmClases.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCliente.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCondicion.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaEmpoces.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaExtorno.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaHRPU.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaOrdenPago.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaServicios.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaVenta.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCuentas.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDepreciacion.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDJAutovaluo.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEmpoce.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEstadoConserv.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEvaluacionPredio.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmExtorno.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmFactorReajuste.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.Frmgrupo.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmInicioSesion.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMontoMinimo.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMotivosDJ.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmOrdenPago.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPagos.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredio.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredios.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPrueba.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRealizaVenta.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroEmpoce.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroExtorno.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistros.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.Frmreportes.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmReportesPredial.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRestauraBD.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTipoEdificacion.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTrimestres.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmUsuarios.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmValoresUnitarios.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.FrmZona.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.MdiPrincipal.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.Resources.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.RegistroProducto.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.Splash.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\GUIRentas\obj\Release\GUIRentas.exe.licenses
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\GUIRentas.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\GUIRentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\GUIRentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\GUIRentas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Datos.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Reglas.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Reportes.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Datos.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Reportes.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Reportes.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Reglas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\bin\Release\Reglas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmAbout.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBackup.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBuscarCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCancelarOP.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCategorias.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmClases.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCondicion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaEmpoces.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaExtorno.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaHRPU.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaOrdenPago.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaServicios.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaVenta.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCuentas.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDepreciacion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDJAutovaluo.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEmpoce.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEstadoConserv.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEvaluacionPredio.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmExtorno.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmFactorReajuste.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.Frmgrupo.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmInicioSesion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMontoMinimo.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMotivosDJ.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmOrdenPago.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPagos.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredio.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredios.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPrueba.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRealizaVenta.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroEmpoce.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroExtorno.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistros.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.Frmreportes.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmReportesPredial.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRestauraBD.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTipoEdificacion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTrimestres.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmUsuarios.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmValoresUnitarios.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.FrmZona.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.MdiPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.RegistroProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.Splash.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas\GUIRentas\obj\Release\GUIRentas.exe.licenses
+D:\Proyectos\Rentas\GUIRentas\bin\Release\GUIRentas.exe.config
+D:\Proyectos\Rentas\GUIRentas\bin\Release\GUIRentas.exe
+D:\Proyectos\Rentas\GUIRentas\bin\Release\GUIRentas.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Release\GUIRentas.xml
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Reglas.dll
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Reportes.dll
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Datos.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Datos.xml
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Reportes.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Reportes.xml
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Reglas.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Release\Reglas.xml
+D:\Proyectos\Rentas\GUIRentas\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmAbout.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBackup.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBuscarCliente.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCancelarOP.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCategorias.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmClases.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCliente.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCondicion.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaEmpoces.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaExtorno.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaHRPU.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaOrdenPago.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaServicios.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaVenta.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCuentas.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDepreciacion.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDJAutovaluo.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEmpoce.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEstadoConserv.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEvaluacionPredio.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmExtorno.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmFactorReajuste.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.Frmgrupo.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmInicioSesion.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMontoMinimo.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMotivosDJ.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmOrdenPago.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPagos.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredio.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredios.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPrueba.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRealizaVenta.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroEmpoce.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroExtorno.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistros.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.Frmreportes.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmReportesPredial.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRestauraBD.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTipoEdificacion.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTrimestres.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmUsuarios.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmValoresUnitarios.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.FrmZona.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.MdiPrincipal.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.Resources.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.RegistroProducto.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.Splash.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.vbproj.GenerateResource.Cache
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.exe.licenses
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.exe
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.xml
+D:\Proyectos\Rentas\GUIRentas\obj\Release\GUIRentas.pdb
+H:\memoria\Rentas\GUIRentas\bin\Release\GUIRentas.exe.config
+H:\memoria\Rentas\GUIRentas\obj\Release\GUIRentas.exe
+H:\memoria\Rentas\GUIRentas\obj\Release\GUIRentas.xml
+H:\memoria\Rentas\GUIRentas\obj\Release\GUIRentas.pdb
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\GUIRentas.exe.config
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.exe
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.xml
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.pdb
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\GUIRentas.exe
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\GUIRentas.pdb
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\GUIRentas.xml
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Datos.dll
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Reglas.dll
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Reportes.dll
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Datos.pdb
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Datos.xml
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Reportes.pdb
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Reportes.xml
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Reglas.pdb
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\bin\Release\Reglas.xml
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\ResolveAssemblyReference.cache
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmAbout.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBackup.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmBuscarCliente.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCancelarOP.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCategorias.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmClases.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCliente.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCondicion.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaEmpoces.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaExtorno.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaHRPU.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaOrdenPago.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaServicios.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmConsultaVenta.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmCuentas.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDepreciacion.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmDJAutovaluo.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEmpoce.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEstadoConserv.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmEvaluacionPredio.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmExtorno.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmFactorReajuste.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.Frmgrupo.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmInicioSesion.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMontoMinimo.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmMotivosDJ.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmOrdenPago.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPagos.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredio.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPredios.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmPrueba.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRealizaVenta.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroEmpoce.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistroExtorno.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRegistros.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.Frmreportes.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmReportesPredial.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmRestauraBD.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTipoEdificacion.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmTrimestres.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmUsuarios.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmValoresUnitarios.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.FrmZona.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.MdiPrincipal.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.Resources.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.RegistroProducto.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.Splash.resources
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.vbproj.GenerateResource.Cache
+D:\DISCO_D\EDGAR\Rentas\GUIRentas\obj\Release\GUIRentas.exe.licenses
+D:\Proyectos\visual 2008\Rentas\GUIRentas\bin\Release\GUIRentas.exe.config
+D:\Proyectos\visual 2008\Rentas\GUIRentas\obj\Release\GUIRentas.exe
+D:\Proyectos\visual 2008\Rentas\GUIRentas\obj\Release\GUIRentas.xml
+D:\Proyectos\visual 2008\Rentas\GUIRentas\obj\Release\GUIRentas.pdb

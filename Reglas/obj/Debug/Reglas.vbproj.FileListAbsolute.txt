@@ -1,0 +1,48 @@
+D:\Proyectos\Rentas\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\Rentas\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\Rentas\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\Rentas\Reglas\bin\Debug\Datos.dll
+D:\Proyectos\Rentas\Reglas\bin\Debug\Datos.pdb
+D:\Proyectos\Rentas\Reglas\bin\Debug\Datos.xml
+D:\Proyectos\Rentas\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Rentas\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Proyectos\Rentas\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\Rentas\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\Rentas\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\Rentas\Reglas\obj\Debug\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\bin\Debug\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\bin\Debug\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\bin\Debug\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\bin\Debug\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\bin\Debug\Datos.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\bin\Debug\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\obj\Debug\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\obj\Debug\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\Reglas\obj\Debug\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Debug\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Debug\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Debug\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Debug\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Debug\Datos.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Debug\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Debug\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Debug\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Debug\Reglas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\bin\Debug\Reglas.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\bin\Debug\Reglas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\bin\Debug\Reglas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\bin\Debug\Datos.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\bin\Debug\Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\bin\Debug\Datos.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\obj\Debug\Reglas.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\obj\Debug\Reglas.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\obj\Debug\Reglas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\Reglas\obj\Debug\Reglas.pdb

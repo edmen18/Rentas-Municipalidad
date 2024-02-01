@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D8CFF18F-FF62-476B-ABFC-D55A24DB9732}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Reportes</RootNamespace>
+    <AssemblyName>Reportes</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Reportes.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Reportes.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cr_Balance.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Balance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_Clientes.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Clientes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_Coactivos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Coactivos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_DetalleEmpoce.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_DetalleEmpoce.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_DiarioCaja.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_DiarioCaja.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_Extornos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Extornos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_HR.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_HR.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_OrdenesC.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_OrdenesC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_OrdenesD.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_OrdenesD.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_OrdenPago.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_OrdenPago.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_PU.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_PU.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_Recibo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Recibo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_ReciboAutovaluo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_ReciboAutovaluo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_RecibosAutovaluo.vb">
+      <DependentUpon>Cr_RecibosAutovaluo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Cr_ReporteDiarioIngreso.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_ReporteDiarioIngreso.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_ReporteEmpoces.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_ReporteEmpoces.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_trimestresvencidos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_trimestresvencidos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_TUOT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_TUOT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_Ventas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_Ventas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_VentasxCliente.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_VentasxCliente.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_VentasxServicio.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_VentasxServicio.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="C_imprime.vb" />
+    <Compile Include="DsRecibo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsRecibo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DsreciboAutovaluo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsreciboAutovaluo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_Balance.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_Balance.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_Clientes.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_Clientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_Coactivos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_Coactivos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_DetalleEmpoce.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_DetalleEmpoce.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_Extornos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_Extornos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_HR.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_HR.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_OrdenesD.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_OrdenesD.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_OrdenPago.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_OrdenPago.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_PU.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_PU.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_RecibosEmitidos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_RecibosEmitidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_ReporteEmpoces.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_ReporteEmpoces.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_ReporteIngresoDiario.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_ReporteIngresoDiario.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_TrimestresVencidos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_TrimestresVencidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ds_ventas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_ventas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporte.Designer.vb">
+      <DependentUpon>FrmReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Cr_Balance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Balance.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_Clientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Clientes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_Coactivos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Coactivos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_DetalleEmpoce.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_DetalleEmpoce.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_DiarioCaja.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_DiarioCaja.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_Extornos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Extornos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_HR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_HR.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_OrdenesC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_OrdenesC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_OrdenesD.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_OrdenesD.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_OrdenPago.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_OrdenPago.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_PU.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_PU.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_Recibo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Recibo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_ReciboAutovaluo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_ReciboAutovaluo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_RecibosAutovaluo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_RecibosAutovaluo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_ReporteDiarioIngreso.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_ReporteDiarioIngreso.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_ReporteEmpoces.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_ReporteEmpoces.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_trimestresvencidos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_trimestresvencidos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_TUOT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_TUOT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_Ventas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_Ventas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_VentasxCliente.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_VentasxCliente.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_VentasxServicio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_VentasxServicio.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporte.resx">
+      <DependentUpon>FrmReporte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DsRecibo.xsc">
+      <DependentUpon>DsRecibo.xsd</DependentUpon>
+    </None>
+    <None Include="DsRecibo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsRecibo.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DsRecibo.xss">
+      <DependentUpon>DsRecibo.xsd</DependentUpon>
+    </None>
+    <None Include="DsreciboAutovaluo.xsc">
+      <DependentUpon>DsreciboAutovaluo.xsd</DependentUpon>
+    </None>
+    <None Include="DsreciboAutovaluo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsreciboAutovaluo.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DsreciboAutovaluo.xss">
+      <DependentUpon>DsreciboAutovaluo.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Balance.xsc">
+      <DependentUpon>Ds_Balance.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Balance.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_Balance.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_Balance.xss">
+      <DependentUpon>Ds_Balance.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Clientes.xsc">
+      <DependentUpon>Ds_Clientes.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Clientes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_Clientes.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Ds_Clientes.xss">
+      <DependentUpon>Ds_Clientes.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Coactivos.xsc">
+      <DependentUpon>Ds_Coactivos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Coactivos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_Coactivos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_Coactivos.xss">
+      <DependentUpon>Ds_Coactivos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_DetalleEmpoce.xsc">
+      <DependentUpon>Ds_DetalleEmpoce.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_DetalleEmpoce.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_DetalleEmpoce.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_DetalleEmpoce.xss">
+      <DependentUpon>Ds_DetalleEmpoce.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Extornos.xsc">
+      <DependentUpon>Ds_Extornos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Extornos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_Extornos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_Extornos.xss">
+      <DependentUpon>Ds_Extornos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_HR.xsc">
+      <DependentUpon>Ds_HR.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_HR.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_HR.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_HR.xss">
+      <DependentUpon>Ds_HR.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_OrdenesD.xsc">
+      <DependentUpon>Ds_OrdenesD.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_OrdenesD.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_OrdenesD.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_OrdenesD.xss">
+      <DependentUpon>Ds_OrdenesD.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_OrdenPago.xsc">
+      <DependentUpon>Ds_OrdenPago.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_OrdenPago.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_OrdenPago.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_OrdenPago.xss">
+      <DependentUpon>Ds_OrdenPago.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_PU.xsc">
+      <DependentUpon>Ds_PU.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_PU.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_PU.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_PU.xss">
+      <DependentUpon>Ds_PU.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_RecibosEmitidos.xsc">
+      <DependentUpon>Ds_RecibosEmitidos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_RecibosEmitidos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_RecibosEmitidos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_RecibosEmitidos.xss">
+      <DependentUpon>Ds_RecibosEmitidos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_ReporteEmpoces.xsc">
+      <DependentUpon>Ds_ReporteEmpoces.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_ReporteEmpoces.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_ReporteEmpoces.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_ReporteEmpoces.xss">
+      <DependentUpon>Ds_ReporteEmpoces.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_ReporteIngresoDiario.xsc">
+      <DependentUpon>Ds_ReporteIngresoDiario.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_ReporteIngresoDiario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_ReporteIngresoDiario.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_ReporteIngresoDiario.xss">
+      <DependentUpon>Ds_ReporteIngresoDiario.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_TrimestresVencidos.xsc">
+      <DependentUpon>Ds_TrimestresVencidos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_TrimestresVencidos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_TrimestresVencidos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_TrimestresVencidos.xss">
+      <DependentUpon>Ds_TrimestresVencidos.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Tuot.xsc">
+      <DependentUpon>Ds_Tuot.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_Tuot.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ds_Tuot.xss">
+      <DependentUpon>Ds_Tuot.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_ventas.xsc">
+      <DependentUpon>Ds_ventas.xsd</DependentUpon>
+    </None>
+    <None Include="Ds_ventas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_ventas.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Ds_ventas.xss">
+      <DependentUpon>Ds_ventas.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

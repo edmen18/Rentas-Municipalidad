@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Reportes
+</name>
+</assembly>
+<members>
+<member name="T:Reportes.DsRecibo.DtReciboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.DsRecibo.DtReciboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.DsRecibo.DtReciboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.DsRecibo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_OrdenPago.DtOrdenPagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_OrdenPago.DtOrdenPagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_OrdenPago.DtOrdenPagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_OrdenPago">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_ReporteEmpoces.Dt_EmpocesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_ReporteEmpoces.Dt_EmpocesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_ReporteEmpoces.Dt_EmpocesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_ReporteEmpoces">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_RecibosEmitidos.DtRecibosEmitidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_RecibosEmitidos.DtRecibosEmitidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_RecibosEmitidos.DtRecibosEmitidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_RecibosEmitidos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.DsreciboAutovaluo.DtReciboAutovaluoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.DsreciboAutovaluo.DtReciboAutovaluoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.DsreciboAutovaluo.DtReciboAutovaluoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.DsreciboAutovaluo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_PU.DT_PUDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_PU.DT_PURow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_PU.DT_PURowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_PU">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_DetalleEmpoce.DTdetallempoceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_DetalleEmpoce.DTdetallempoceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_DetalleEmpoce.DTdetallempoceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_DetalleEmpoce">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_Extornos.DTEXTORNOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_Extornos.DTEXTORNOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_Extornos.DTEXTORNOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_Extornos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_OrdenesD.DT_ORDENESDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_OrdenesD.DT_ORDENESDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_OrdenesD.DT_ORDENESDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_OrdenesD">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_ReporteIngresoDiario.DT_REPINGRESODIARIODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_ReporteIngresoDiario.DT_REPINGRESODIARIORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_ReporteIngresoDiario.DT_REPINGRESODIARIORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_ReporteIngresoDiario">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_ventas.DTventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_ventas.DTventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_ventas.DTventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_ventas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_HR.DT_HRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_HR.DT_HRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_HR.DT_HRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_HR">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_Coactivos.DtCoactivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_Coactivos.DtCoactivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_Coactivos.DtCoactivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_Coactivos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_TrimestresVencidos.dt_trimestresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_TrimestresVencidos.dt_trimestresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_TrimestresVencidos.dt_trimestresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_TrimestresVencidos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Reportes.Ds_Balance.DTBALANCEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Reportes.Ds_Balance.DTBALANCERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Reportes.Ds_Balance.DTBALANCERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Reportes.Ds_Balance">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

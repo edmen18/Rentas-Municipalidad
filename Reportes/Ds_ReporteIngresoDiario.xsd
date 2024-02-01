@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_ReporteIngresoDiario" targetNamespace="http://tempuri.org/Ds_ReporteIngresoDiario.xsd" xmlns:mstns="http://tempuri.org/Ds_ReporteIngresoDiario.xsd" xmlns="http://tempuri.org/Ds_ReporteIngresoDiario.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_ReporteIngresoDiario" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Ds_ReporteIngresoDiario" msprop:Generator_UserDSName="Ds_ReporteIngresoDiario" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DT_REPINGRESODIARIO" msprop:Generator_UserTableName="DT_REPINGRESODIARIO" msprop:Generator_RowDeletedName="DT_REPINGRESODIARIORowDeleted" msprop:Generator_TableClassName="DT_REPINGRESODIARIODataTable" msprop:Generator_RowChangedName="DT_REPINGRESODIARIORowChanged" msprop:Generator_RowClassName="DT_REPINGRESODIARIORow" msprop:Generator_RowChangingName="DT_REPINGRESODIARIORowChanging" msprop:Generator_RowEvArgName="DT_REPINGRESODIARIORowChangeEvent" msprop:Generator_RowEvHandlerName="DT_REPINGRESODIARIORowChangeEventHandler" msprop:Generator_TablePropName="DT_REPINGRESODIARIO" msprop:Generator_TableVarName="tableDT_REPINGRESODIARIO" msprop:Generator_RowDeletingName="DT_REPINGRESODIARIORowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NUMCLA" msprop:Generator_UserColumnName="NUMCLA" msprop:Generator_ColumnPropNameInRow="NUMCLA" msprop:Generator_ColumnVarNameInTable="columnNUMCLA" msprop:Generator_ColumnPropNameInTable="NUMCLAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DESCLA" msprop:Generator_UserColumnName="DESCLA" msprop:Generator_ColumnPropNameInRow="DESCLA" msprop:Generator_ColumnVarNameInTable="columnDESCLA" msprop:Generator_ColumnPropNameInTable="DESCLAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTAL" msprop:Generator_UserColumnName="TOTAL" msprop:Generator_ColumnPropNameInRow="TOTAL" msprop:Generator_ColumnVarNameInTable="columnTOTAL" msprop:Generator_ColumnPropNameInTable="TOTALColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

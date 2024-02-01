@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_Coactivos" targetNamespace="http://tempuri.org/Ds_Coactivos.xsd" xmlns:mstns="http://tempuri.org/Ds_Coactivos.xsd" xmlns="http://tempuri.org/Ds_Coactivos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_Coactivos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Ds_Coactivos" msprop:Generator_UserDSName="Ds_Coactivos" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtCoactivos" msprop:Generator_UserTableName="DtCoactivos" msprop:Generator_RowDeletedName="DtCoactivosRowDeleted" msprop:Generator_TableClassName="DtCoactivosDataTable" msprop:Generator_RowChangedName="DtCoactivosRowChanged" msprop:Generator_RowClassName="DtCoactivosRow" msprop:Generator_RowChangingName="DtCoactivosRowChanging" msprop:Generator_RowEvArgName="DtCoactivosRowChangeEvent" msprop:Generator_RowEvHandlerName="DtCoactivosRowChangeEventHandler" msprop:Generator_TablePropName="DtCoactivos" msprop:Generator_TableVarName="tableDtCoactivos" msprop:Generator_RowDeletingName="DtCoactivosRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="descli" msprop:Generator_UserColumnName="descli" msprop:Generator_ColumnPropNameInRow="descli" msprop:Generator_ColumnVarNameInTable="columndescli" msprop:Generator_ColumnPropNameInTable="descliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dnicli" msprop:Generator_UserColumnName="dnicli" msprop:Generator_ColumnPropNameInRow="dnicli" msprop:Generator_ColumnVarNameInTable="columndnicli" msprop:Generator_ColumnPropNameInTable="dnicliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ruccli" msprop:Generator_UserColumnName="ruccli" msprop:Generator_ColumnPropNameInRow="ruccli" msprop:Generator_ColumnVarNameInTable="columnruccli" msprop:Generator_ColumnPropNameInTable="ruccliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="codorden" msprop:Generator_UserColumnName="codorden" msprop:Generator_ColumnPropNameInRow="codorden" msprop:Generator_ColumnVarNameInTable="columncodorden" msprop:Generator_ColumnPropNameInTable="codordenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="monto" msprop:Generator_UserColumnName="monto" msprop:Generator_ColumnPropNameInRow="monto" msprop:Generator_ColumnVarNameInTable="columnmonto" msprop:Generator_ColumnPropNameInTable="montoColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FechVencOrden" msprop:Generator_UserColumnName="FechVencOrden" msprop:Generator_ColumnPropNameInRow="FechVencOrden" msprop:Generator_ColumnVarNameInTable="columnFechVencOrden" msprop:Generator_ColumnPropNameInTable="FechVencOrdenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="montoact" msprop:Generator_UserColumnName="montoact" msprop:Generator_ColumnPropNameInRow="montoact" msprop:Generator_ColumnVarNameInTable="columnmontoact" msprop:Generator_ColumnPropNameInTable="montoactColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Trimestre" msprop:Generator_UserColumnName="Trimestre" msprop:Generator_ColumnPropNameInRow="Trimestre" msprop:Generator_ColumnVarNameInTable="columnTrimestre" msprop:Generator_ColumnPropNameInTable="TrimestreColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FechVencTrim" msprop:Generator_UserColumnName="FechVencTrim" msprop:Generator_ColumnPropNameInRow="FechVencTrim" msprop:Generator_ColumnVarNameInTable="columnFechVencTrim" msprop:Generator_ColumnPropNameInTable="FechVencTrimColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

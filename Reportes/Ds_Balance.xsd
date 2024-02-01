@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_Balance" targetNamespace="http://tempuri.org/Ds_Balance.xsd" xmlns:mstns="http://tempuri.org/Ds_Balance.xsd" xmlns="http://tempuri.org/Ds_Balance.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_Balance" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Ds_Balance" msprop:Generator_UserDSName="Ds_Balance" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTBALANCE" msprop:Generator_UserTableName="DTBALANCE" msprop:Generator_RowDeletedName="DTBALANCERowDeleted" msprop:Generator_TableClassName="DTBALANCEDataTable" msprop:Generator_RowChangedName="DTBALANCERowChanged" msprop:Generator_RowClassName="DTBALANCERow" msprop:Generator_RowChangingName="DTBALANCERowChanging" msprop:Generator_RowEvArgName="DTBALANCERowChangeEvent" msprop:Generator_RowEvHandlerName="DTBALANCERowChangeEventHandler" msprop:Generator_TablePropName="DTBALANCE" msprop:Generator_TableVarName="tableDTBALANCE" msprop:Generator_RowDeletingName="DTBALANCERowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODCTA" msprop:Generator_UserColumnName="CODCTA" msprop:Generator_ColumnPropNameInRow="CODCTA" msprop:Generator_ColumnVarNameInTable="columnCODCTA" msprop:Generator_ColumnPropNameInTable="CODCTAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DESCRIPCION" msprop:Generator_UserColumnName="DESCRIPCION" msprop:Generator_ColumnPropNameInRow="DESCRIPCION" msprop:Generator_ColumnVarNameInTable="columnDESCRIPCION" msprop:Generator_ColumnPropNameInTable="DESCRIPCIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MONTO" msprop:Generator_UserColumnName="MONTO" msprop:Generator_ColumnPropNameInRow="MONTO" msprop:Generator_ColumnVarNameInTable="columnMONTO" msprop:Generator_ColumnPropNameInTable="MONTOColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

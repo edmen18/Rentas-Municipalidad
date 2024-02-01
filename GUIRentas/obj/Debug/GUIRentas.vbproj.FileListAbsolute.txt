@@ -1,0 +1,245 @@
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\GUIRentas.exe.config
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.exe
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.xml
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\GUIRentas.exe
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\GUIRentas.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\GUIRentas.xml
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Datos.dll
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Reglas.dll
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Reglas.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Reglas.xml
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Datos.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Datos.xml
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCliente.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmPrincipal.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.Resources.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.vbproj.GenerateResource.Cache
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCuentas.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmBuscarCliente.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmVentas.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.Frmgrupo.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRegistros.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmClases.resources
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaServicios.resources
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Reportes.dll
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Reportes.pdb
+D:\Proyectos\Rentas\GUIRentas\bin\Debug\Reportes.xml
+D:\Proyectos\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaVenta.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmBuscarCliente.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmClases.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCliente.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaEmpoces.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaServicios.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaVenta.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCuentas.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmDepreciacion.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmEmpoce.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmEstadoConserv.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.Frmgrupo.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRealizaVenta.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRegistroEmpoce.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRegistros.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmTipoEdificacion.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.MdiPrincipal.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.exe.licenses
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\GUIRentas.exe.config
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\GUIRentas.exe
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\GUIRentas.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\GUIRentas.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Reportes.dll
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Datos.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Reportes.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Reportes.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\bin\Debug\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.exe
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.xml
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.pdb
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmEvaluacionPredio.resources
+D:\Mis Proyectos\Visual Net\2008\Basic\Sistema Rentas\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmPredio.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\GUIRentas.exe.config
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\GUIRentas.exe
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\GUIRentas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\GUIRentas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Reportes.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Datos.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Reportes.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Reportes.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\bin\Debug\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmAbout.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmBackup.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmBuscarCliente.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCancelarOP.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmClases.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCliente.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCondicion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaEmpoces.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaExtorno.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaHRPU.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaOrdenPago.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaServicios.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmConsultaVenta.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmCuentas.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmDepreciacion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmDJAutovaluo.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmEmpoce.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmEstadoConserv.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmEvaluacionPredio.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmExtorno.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmFactorReajuste.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.Frmgrupo.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmInicioSesion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmMontoMinimo.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmMotivosDJ.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmOrdenPago.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmPagos.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmPredio.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmPredios.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmPrueba.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRealizaVenta.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRegistroEmpoce.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRegistroExtorno.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRegistros.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.Frmreportes.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmReportesPredial.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmRestauraBD.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmTipoEdificacion.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmTrimestres.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmUsuarios.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.FrmZona.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.MdiPrincipal.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.exe.licenses
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.exe
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\GUIRentas\obj\Debug\GUIRentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\GUIRentas.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\GUIRentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\GUIRentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\GUIRentas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Datos.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Reglas.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Reportes.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Datos.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Reportes.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Reportes.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Reglas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\bin\Debug\Reglas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmAbout.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmBackup.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmBuscarCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCancelarOP.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmClases.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCondicion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaEmpoces.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaExtorno.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaHRPU.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaOrdenPago.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaServicios.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaVenta.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCuentas.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmDepreciacion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmDJAutovaluo.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmEmpoce.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmEstadoConserv.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmEvaluacionPredio.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmExtorno.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmFactorReajuste.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Frmgrupo.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmInicioSesion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmMontoMinimo.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmMotivosDJ.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmOrdenPago.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPagos.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPredio.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPredios.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPrueba.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRealizaVenta.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRegistroEmpoce.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRegistroExtorno.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRegistros.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Frmreportes.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmReportesPredial.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRestauraBD.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmTipoEdificacion.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmTrimestres.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmUsuarios.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmZona.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.MdiPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.RegistroProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Splash.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas Final\GUIRentas\obj\Debug\GUIRentas.exe.licenses
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\bin\Debug\GUIRentas.exe.config
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.exe
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.xml
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.pdb
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmAbout.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmBackup.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmBuscarCliente.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCancelarOP.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmClases.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCliente.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCondicion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaEmpoces.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaExtorno.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaHRPU.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaOrdenPago.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaServicios.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmConsultaVenta.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmCuentas.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmDepreciacion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmDJAutovaluo.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmEmpoce.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmEstadoConserv.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmEvaluacionPredio.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmExtorno.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmFactorReajuste.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Frmgrupo.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmInicioSesion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmMontoMinimo.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmMotivosDJ.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmOrdenPago.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPagos.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPredio.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPredios.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmPrueba.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRealizaVenta.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRegistroEmpoce.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRegistroExtorno.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRegistros.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Frmreportes.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmReportesPredial.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmRestauraBD.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmTipoEdificacion.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmTrimestres.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmUsuarios.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.FrmZona.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.MdiPrincipal.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Resources.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.RegistroProducto.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.Splash.resources
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.vbproj.GenerateResource.Cache
+C:\Users\Fabian\Desktop\Rentas Final\GUIRentas\obj\Debug\GUIRentas.exe.licenses

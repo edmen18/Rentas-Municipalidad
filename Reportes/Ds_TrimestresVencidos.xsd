@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_TrimestresVencidos" targetNamespace="http://tempuri.org/Ds_TrimestresVencidos.xsd" xmlns:mstns="http://tempuri.org/Ds_TrimestresVencidos.xsd" xmlns="http://tempuri.org/Ds_TrimestresVencidos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_TrimestresVencidos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Ds_TrimestresVencidos" msprop:Generator_UserDSName="Ds_TrimestresVencidos" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt_trimestres" msprop:Generator_UserTableName="dt_trimestres" msprop:Generator_RowDeletedName="dt_trimestresRowDeleted" msprop:Generator_TableClassName="dt_trimestresDataTable" msprop:Generator_RowChangedName="dt_trimestresRowChanged" msprop:Generator_RowClassName="dt_trimestresRow" msprop:Generator_RowChangingName="dt_trimestresRowChanging" msprop:Generator_RowEvArgName="dt_trimestresRowChangeEvent" msprop:Generator_RowEvHandlerName="dt_trimestresRowChangeEventHandler" msprop:Generator_TablePropName="dt_trimestres" msprop:Generator_TableVarName="tabledt_trimestres" msprop:Generator_RowDeletingName="dt_trimestresRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codcli" msprop:Generator_UserColumnName="codcli" msprop:Generator_ColumnPropNameInRow="codcli" msprop:Generator_ColumnVarNameInTable="columncodcli" msprop:Generator_ColumnPropNameInTable="codcliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="descli" msprop:Generator_UserColumnName="descli" msprop:Generator_ColumnPropNameInRow="descli" msprop:Generator_ColumnVarNameInTable="columndescli" msprop:Generator_ColumnPropNameInTable="descliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dnicli" msprop:Generator_UserColumnName="dnicli" msprop:Generator_ColumnPropNameInRow="dnicli" msprop:Generator_ColumnVarNameInTable="columndnicli" msprop:Generator_ColumnPropNameInTable="dnicliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ruccli" msprop:Generator_UserColumnName="ruccli" msprop:Generator_ColumnPropNameInRow="ruccli" msprop:Generator_ColumnVarNameInTable="columnruccli" msprop:Generator_ColumnPropNameInTable="ruccliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="numero" msprop:Generator_UserColumnName="numero" msprop:Generator_ColumnPropNameInRow="numero" msprop:Generator_ColumnVarNameInTable="columnnumero" msprop:Generator_ColumnPropNameInTable="numeroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="monto" msprop:Generator_UserColumnName="monto" msprop:Generator_ColumnPropNameInRow="monto" msprop:Generator_ColumnVarNameInTable="columnmonto" msprop:Generator_ColumnPropNameInTable="montoColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="fechvenc" msprop:Generator_UserColumnName="fechvenc" msprop:Generator_ColumnPropNameInRow="fechvenc" msprop:Generator_ColumnVarNameInTable="columnfechvenc" msprop:Generator_ColumnPropNameInTable="fechvencColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

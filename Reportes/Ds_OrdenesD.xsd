@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_OrdenesD" targetNamespace="http://tempuri.org/Ds_OrdenesD.xsd" xmlns:mstns="http://tempuri.org/Ds_OrdenesD.xsd" xmlns="http://tempuri.org/Ds_OrdenesD.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_OrdenesD" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Ds_OrdenesD" msprop:Generator_DataSetName="Ds_OrdenesD" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DT_ORDENESD" msprop:Generator_UserTableName="DT_ORDENESD" msprop:Generator_RowDeletedName="DT_ORDENESDRowDeleted" msprop:Generator_RowChangedName="DT_ORDENESDRowChanged" msprop:Generator_RowClassName="DT_ORDENESDRow" msprop:Generator_RowChangingName="DT_ORDENESDRowChanging" msprop:Generator_RowEvArgName="DT_ORDENESDRowChangeEvent" msprop:Generator_RowEvHandlerName="DT_ORDENESDRowChangeEventHandler" msprop:Generator_TableClassName="DT_ORDENESDDataTable" msprop:Generator_TableVarName="tableDT_ORDENESD" msprop:Generator_RowDeletingName="DT_ORDENESDRowDeleting" msprop:Generator_TablePropName="DT_ORDENESD">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codorden" msprop:Generator_UserColumnName="codorden" msprop:Generator_ColumnPropNameInRow="codorden" msprop:Generator_ColumnVarNameInTable="columncodorden" msprop:Generator_ColumnPropNameInTable="codordenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha" msprop:Generator_UserColumnName="fecha" msprop:Generator_ColumnPropNameInRow="fecha" msprop:Generator_ColumnVarNameInTable="columnfecha" msprop:Generator_ColumnPropNameInTable="fechaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="monto" msprop:Generator_UserColumnName="monto" msprop:Generator_ColumnPropNameInRow="monto" msprop:Generator_ColumnVarNameInTable="columnmonto" msprop:Generator_ColumnPropNameInTable="montoColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="descli" msprop:Generator_UserColumnName="descli" msprop:Generator_ColumnPropNameInRow="descli" msprop:Generator_ColumnVarNameInTable="columndescli" msprop:Generator_ColumnPropNameInTable="descliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dnicli" msprop:Generator_UserColumnName="dnicli" msprop:Generator_ColumnPropNameInRow="dnicli" msprop:Generator_ColumnVarNameInTable="columndnicli" msprop:Generator_ColumnPropNameInTable="dnicliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ruccli" msprop:Generator_UserColumnName="ruccli" msprop:Generator_ColumnPropNameInRow="ruccli" msprop:Generator_ColumnVarNameInTable="columnruccli" msprop:Generator_ColumnPropNameInTable="ruccliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CAMPO1" msprop:Generator_UserColumnName="CAMPO1" msprop:Generator_ColumnPropNameInRow="CAMPO1" msprop:Generator_ColumnVarNameInTable="columnCAMPO1" msprop:Generator_ColumnPropNameInTable="CAMPO1Column" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

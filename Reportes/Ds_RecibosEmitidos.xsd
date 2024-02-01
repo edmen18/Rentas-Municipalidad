@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_RecibosEmitidos" targetNamespace="http://tempuri.org/Ds_RecibosEmitidos.xsd" xmlns:mstns="http://tempuri.org/Ds_RecibosEmitidos.xsd" xmlns="http://tempuri.org/Ds_RecibosEmitidos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_RecibosEmitidos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Ds_RecibosEmitidos" msprop:Generator_DataSetName="Ds_RecibosEmitidos" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtRecibosEmitidos" msprop:Generator_UserTableName="DtRecibosEmitidos" msprop:Generator_RowDeletedName="DtRecibosEmitidosRowDeleted" msprop:Generator_RowChangedName="DtRecibosEmitidosRowChanged" msprop:Generator_RowClassName="DtRecibosEmitidosRow" msprop:Generator_RowChangingName="DtRecibosEmitidosRowChanging" msprop:Generator_RowEvArgName="DtRecibosEmitidosRowChangeEvent" msprop:Generator_RowEvHandlerName="DtRecibosEmitidosRowChangeEventHandler" msprop:Generator_TableClassName="DtRecibosEmitidosDataTable" msprop:Generator_TableVarName="tableDtRecibosEmitidos" msprop:Generator_RowDeletingName="DtRecibosEmitidosRowDeleting" msprop:Generator_TablePropName="DtRecibosEmitidos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codrecibo" msprop:Generator_UserColumnName="codrecibo" msprop:Generator_ColumnVarNameInTable="columncodrecibo" msprop:Generator_ColumnPropNameInRow="codrecibo" msprop:Generator_ColumnPropNameInTable="codreciboColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha" msprop:Generator_UserColumnName="fecha" msprop:Generator_ColumnVarNameInTable="columnfecha" msprop:Generator_ColumnPropNameInRow="fecha" msprop:Generator_ColumnPropNameInTable="fechaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_UserColumnName="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="codpago" msprop:Generator_UserColumnName="codpago" msprop:Generator_ColumnVarNameInTable="columncodpago" msprop:Generator_ColumnPropNameInRow="codpago" msprop:Generator_ColumnPropNameInTable="codpagoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Observacion" msprop:Generator_UserColumnName="Observacion" msprop:Generator_ColumnVarNameInTable="columnObservacion" msprop:Generator_ColumnPropNameInRow="Observacion" msprop:Generator_ColumnPropNameInTable="ObservacionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="numero" msprop:Generator_UserColumnName="numero" msprop:Generator_ColumnVarNameInTable="columnnumero" msprop:Generator_ColumnPropNameInRow="numero" msprop:Generator_ColumnPropNameInTable="numeroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="descli" msprop:Generator_UserColumnName="descli" msprop:Generator_ColumnVarNameInTable="columndescli" msprop:Generator_ColumnPropNameInRow="descli" msprop:Generator_ColumnPropNameInTable="descliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dnicli" msprop:Generator_UserColumnName="dnicli" msprop:Generator_ColumnVarNameInTable="columndnicli" msprop:Generator_ColumnPropNameInRow="dnicli" msprop:Generator_ColumnPropNameInTable="dnicliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ruccli" msprop:Generator_UserColumnName="ruccli" msprop:Generator_ColumnVarNameInTable="columnruccli" msprop:Generator_ColumnPropNameInRow="ruccli" msprop:Generator_ColumnPropNameInTable="ruccliColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

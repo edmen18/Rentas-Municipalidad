@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_Clientes" targetNamespace="http://tempuri.org/Ds_Clientes.xsd" xmlns:mstns="http://tempuri.org/Ds_Clientes.xsd" xmlns="http://tempuri.org/Ds_Clientes.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_Clientes" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Ds_Clientes" msprop:Generator_UserDSName="Ds_Clientes" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTCLIENTE" msprop:Generator_UserTableName="DTCLIENTE" msprop:Generator_RowDeletedName="DTCLIENTERowDeleted" msprop:Generator_TableClassName="DTCLIENTEDataTable" msprop:Generator_RowChangedName="DTCLIENTERowChanged" msprop:Generator_RowClassName="DTCLIENTERow" msprop:Generator_RowChangingName="DTCLIENTERowChanging" msprop:Generator_RowEvArgName="DTCLIENTERowChangeEvent" msprop:Generator_RowEvHandlerName="DTCLIENTERowChangeEventHandler" msprop:Generator_TablePropName="DTCLIENTE" msprop:Generator_TableVarName="tableDTCLIENTE" msprop:Generator_RowDeletingName="DTCLIENTERowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodCli" msprop:Generator_UserColumnName="CodCli" msprop:Generator_ColumnPropNameInRow="CodCli" msprop:Generator_ColumnVarNameInTable="columnCodCli" msprop:Generator_ColumnPropNameInTable="CodCliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DesCli" msprop:Generator_UserColumnName="DesCli" msprop:Generator_ColumnPropNameInRow="DesCli" msprop:Generator_ColumnVarNameInTable="columnDesCli" msprop:Generator_ColumnPropNameInTable="DesCliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DniCli" msprop:Generator_UserColumnName="DniCli" msprop:Generator_ColumnPropNameInRow="DniCli" msprop:Generator_ColumnVarNameInTable="columnDniCli" msprop:Generator_ColumnPropNameInTable="DniCliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RucCli" msprop:Generator_UserColumnName="RucCli" msprop:Generator_ColumnPropNameInRow="RucCli" msprop:Generator_ColumnVarNameInTable="columnRucCli" msprop:Generator_ColumnPropNameInTable="RucCliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TelCli" msprop:Generator_UserColumnName="TelCli" msprop:Generator_ColumnPropNameInRow="TelCli" msprop:Generator_ColumnVarNameInTable="columnTelCli" msprop:Generator_ColumnPropNameInTable="TelCliColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DirCli" msprop:Generator_UserColumnName="DirCli" msprop:Generator_ColumnPropNameInRow="DirCli" msprop:Generator_ColumnVarNameInTable="columnDirCli" msprop:Generator_ColumnPropNameInTable="DirCliColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

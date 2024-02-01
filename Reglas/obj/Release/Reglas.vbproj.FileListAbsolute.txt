@@ -1,0 +1,72 @@
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\bin\Release\Reglas.dll
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\bin\Release\Reglas.pdb
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\bin\Release\Reglas.xml
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\bin\Release\Datos.dll
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\bin\Release\Datos.pdb
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\bin\Release\Datos.xml
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\obj\Release\Reglas.Resources.resources
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\obj\Release\Reglas.dll
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\obj\Release\Reglas.xml
+C:\Users\Fabian\Desktop\Rentas Final\Reglas\obj\Release\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Release\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Release\Reglas.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Release\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Release\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Release\Datos.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\bin\Release\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Release\Reglas.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Release\Reglas.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Release\Reglas.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Reglas\obj\Release\Reglas.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\bin\Release\Reglas.dll
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\bin\Release\Reglas.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\bin\Release\Reglas.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\bin\Release\Datos.dll
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\bin\Release\Datos.pdb
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\bin\Release\Datos.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\obj\Release\Reglas.Resources.resources
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\obj\Release\Reglas.dll
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\obj\Release\Reglas.xml
+D:\Mis Proyectos\TelSoft\Rentas\Arenal 2\Rentas\Reglas\obj\Release\Reglas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\bin\Release\Reglas.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\bin\Release\Reglas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\bin\Release\Reglas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\bin\Release\Datos.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\bin\Release\Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\bin\Release\Datos.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\obj\Release\Reglas.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\obj\Release\Reglas.dll
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\obj\Release\Reglas.xml
+C:\Documents and Settings\Administrador\Escritorio\Rentas\Reglas\obj\Release\Reglas.pdb
+D:\Proyectos\Rentas\Reglas\bin\Release\Reglas.dll
+D:\Proyectos\Rentas\Reglas\bin\Release\Reglas.pdb
+D:\Proyectos\Rentas\Reglas\bin\Release\Reglas.xml
+D:\Proyectos\Rentas\Reglas\bin\Release\Datos.dll
+D:\Proyectos\Rentas\Reglas\bin\Release\Datos.pdb
+D:\Proyectos\Rentas\Reglas\bin\Release\Datos.xml
+D:\Proyectos\Rentas\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\Rentas\Reglas\obj\Release\Reglas.Resources.resources
+D:\Proyectos\Rentas\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\Proyectos\Rentas\Reglas\obj\Release\Reglas.dll
+D:\Proyectos\Rentas\Reglas\obj\Release\Reglas.xml
+D:\Proyectos\Rentas\Reglas\obj\Release\Reglas.pdb
+D:\DISCO_D\EDGAR\Rentas\Reglas\bin\Release\Reglas.dll
+D:\DISCO_D\EDGAR\Rentas\Reglas\bin\Release\Reglas.pdb
+D:\DISCO_D\EDGAR\Rentas\Reglas\bin\Release\Reglas.xml
+D:\DISCO_D\EDGAR\Rentas\Reglas\bin\Release\Datos.dll
+D:\DISCO_D\EDGAR\Rentas\Reglas\bin\Release\Datos.pdb
+D:\DISCO_D\EDGAR\Rentas\Reglas\bin\Release\Datos.xml
+D:\DISCO_D\EDGAR\Rentas\Reglas\obj\Release\ResolveAssemblyReference.cache
+D:\DISCO_D\EDGAR\Rentas\Reglas\obj\Release\Reglas.Resources.resources
+D:\DISCO_D\EDGAR\Rentas\Reglas\obj\Release\Reglas.vbproj.GenerateResource.Cache
+D:\DISCO_D\EDGAR\Rentas\Reglas\obj\Release\Reglas.dll
+D:\DISCO_D\EDGAR\Rentas\Reglas\obj\Release\Reglas.xml
+D:\DISCO_D\EDGAR\Rentas\Reglas\obj\Release\Reglas.pdb

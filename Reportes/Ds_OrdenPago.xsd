@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_OrdenPago" targetNamespace="http://tempuri.org/Ds_OrdenPago.xsd" xmlns:mstns="http://tempuri.org/Ds_OrdenPago.xsd" xmlns="http://tempuri.org/Ds_OrdenPago.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_OrdenPago" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Ds_OrdenPago" msprop:Generator_DataSetName="Ds_OrdenPago" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtOrdenPago" msprop:Generator_UserTableName="DtOrdenPago" msprop:Generator_RowDeletedName="DtOrdenPagoRowDeleted" msprop:Generator_RowChangedName="DtOrdenPagoRowChanged" msprop:Generator_RowClassName="DtOrdenPagoRow" msprop:Generator_RowChangingName="DtOrdenPagoRowChanging" msprop:Generator_RowEvArgName="DtOrdenPagoRowChangeEvent" msprop:Generator_RowEvHandlerName="DtOrdenPagoRowChangeEventHandler" msprop:Generator_TableClassName="DtOrdenPagoDataTable" msprop:Generator_TableVarName="tableDtOrdenPago" msprop:Generator_RowDeletingName="DtOrdenPagoRowDeleting" msprop:Generator_TablePropName="DtOrdenPago">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codorden" msprop:Generator_UserColumnName="codorden" msprop:Generator_ColumnVarNameInTable="columncodorden" msprop:Generator_ColumnPropNameInRow="codorden" msprop:Generator_ColumnPropNameInTable="codordenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="fechaact" msprop:Generator_UserColumnName="fechaact" msprop:Generator_ColumnVarNameInTable="columnfechaact" msprop:Generator_ColumnPropNameInRow="fechaact" msprop:Generator_ColumnPropNameInTable="fechaactColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="fechaemision" msprop:Generator_UserColumnName="fechaemision" msprop:Generator_ColumnVarNameInTable="columnfechaemision" msprop:Generator_ColumnPropNameInRow="fechaemision" msprop:Generator_ColumnPropNameInTable="fechaemisionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="tasainteres" msprop:Generator_UserColumnName="tasainteres" msprop:Generator_ColumnVarNameInTable="columntasainteres" msprop:Generator_ColumnPropNameInRow="tasainteres" msprop:Generator_ColumnPropNameInTable="tasainteresColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dias" msprop:Generator_UserColumnName="dias" msprop:Generator_ColumnVarNameInTable="columndias" msprop:Generator_ColumnPropNameInRow="dias" msprop:Generator_ColumnPropNameInTable="diasColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="annio" msprop:Generator_UserColumnName="annio" msprop:Generator_ColumnVarNameInTable="columnannio" msprop:Generator_ColumnPropNameInRow="annio" msprop:Generator_ColumnPropNameInTable="annioColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="baseimponible" msprop:Generator_UserColumnName="baseimponible" msprop:Generator_ColumnVarNameInTable="columnbaseimponible" msprop:Generator_ColumnPropNameInRow="baseimponible" msprop:Generator_ColumnPropNameInTable="baseimponibleColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tramo" msprop:Generator_UserColumnName="tramo" msprop:Generator_ColumnVarNameInTable="columntramo" msprop:Generator_ColumnPropNameInRow="tramo" msprop:Generator_ColumnPropNameInTable="tramoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="alicuota" msprop:Generator_UserColumnName="alicuota" msprop:Generator_ColumnVarNameInTable="columnalicuota" msprop:Generator_ColumnPropNameInRow="alicuota" msprop:Generator_ColumnPropNameInTable="alicuotaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="insolutos" msprop:Generator_UserColumnName="insolutos" msprop:Generator_ColumnVarNameInTable="columninsolutos" msprop:Generator_ColumnPropNameInRow="insolutos" msprop:Generator_ColumnPropNameInTable="insolutosColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="impuestoAnual" msprop:Generator_UserColumnName="impuestoAnual" msprop:Generator_ColumnVarNameInTable="columnimpuestoAnual" msprop:Generator_ColumnPropNameInRow="impuestoAnual" msprop:Generator_ColumnPropNameInTable="impuestoAnualColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="trimestres" msprop:Generator_UserColumnName="trimestres" msprop:Generator_ColumnVarNameInTable="columntrimestres" msprop:Generator_ColumnPropNameInRow="trimestres" msprop:Generator_ColumnPropNameInTable="trimestresColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="insoluto" msprop:Generator_UserColumnName="insoluto" msprop:Generator_ColumnVarNameInTable="columninsoluto" msprop:Generator_ColumnPropNameInRow="insoluto" msprop:Generator_ColumnPropNameInTable="insolutoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="reajuste" msprop:Generator_UserColumnName="reajuste" msprop:Generator_ColumnVarNameInTable="columnreajuste" msprop:Generator_ColumnPropNameInRow="reajuste" msprop:Generator_ColumnPropNameInTable="reajusteColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="interes" msprop:Generator_UserColumnName="interes" msprop:Generator_ColumnVarNameInTable="columninteres" msprop:Generator_ColumnPropNameInRow="interes" msprop:Generator_ColumnPropNameInTable="interesColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_UserColumnName="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ValorUit" msprop:Generator_UserColumnName="ValorUit" msprop:Generator_ColumnVarNameInTable="columnValorUit" msprop:Generator_ColumnPropNameInRow="ValorUit" msprop:Generator_ColumnPropNameInTable="ValorUitColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Reajusted" msprop:Generator_UserColumnName="Reajusted" msprop:Generator_ColumnVarNameInTable="columnReajusted" msprop:Generator_ColumnPropNameInRow="Reajusted" msprop:Generator_ColumnPropNameInTable="ReajustedColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TIM" msprop:Generator_UserColumnName="TIM" msprop:Generator_ColumnVarNameInTable="columnTIM" msprop:Generator_ColumnPropNameInRow="TIM" msprop:Generator_ColumnPropNameInTable="TIMColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="coddj" msprop:Generator_UserColumnName="coddj" msprop:Generator_ColumnPropNameInRow="coddj" msprop:Generator_ColumnVarNameInTable="columncoddj" msprop:Generator_ColumnPropNameInTable="coddjColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="fechadj" msprop:Generator_UserColumnName="fechadj" msprop:Generator_ColumnPropNameInRow="fechadj" msprop:Generator_ColumnVarNameInTable="columnfechadj" msprop:Generator_ColumnPropNameInTable="fechadjColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

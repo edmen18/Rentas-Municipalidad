@@ -1,0 +1,18 @@
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\bin\Debug\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\bin\Debug\Datos.pdb
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\bin\Debug\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\obj\Debug\Datos.Resources.resources
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\obj\Debug\Datos.dll
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\obj\Debug\Datos.xml
+D:\Mis Proyectos\Visual Net\2008\Rentas\Datos\obj\Debug\Datos.pdb
+D:\Proyectos\Rentas\Datos\bin\Debug\Datos.dll
+D:\Proyectos\Rentas\Datos\bin\Debug\Datos.pdb
+D:\Proyectos\Rentas\Datos\bin\Debug\Datos.xml
+D:\Proyectos\Rentas\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Rentas\Datos\obj\Debug\Datos.Resources.resources
+D:\Proyectos\Rentas\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+D:\Proyectos\Rentas\Datos\obj\Debug\Datos.dll
+D:\Proyectos\Rentas\Datos\obj\Debug\Datos.xml
+D:\Proyectos\Rentas\Datos\obj\Debug\Datos.pdb

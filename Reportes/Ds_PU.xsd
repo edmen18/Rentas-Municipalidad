@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_PU" targetNamespace="http://tempuri.org/Ds_PU.xsd" xmlns:mstns="http://tempuri.org/Ds_PU.xsd" xmlns="http://tempuri.org/Ds_PU.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_PU" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Ds_PU" msprop:Generator_DataSetName="Ds_PU" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DT_PU" msprop:Generator_UserTableName="DT_PU" msprop:Generator_RowDeletedName="DT_PURowDeleted" msprop:Generator_RowChangedName="DT_PURowChanged" msprop:Generator_RowClassName="DT_PURow" msprop:Generator_RowChangingName="DT_PURowChanging" msprop:Generator_RowEvArgName="DT_PURowChangeEvent" msprop:Generator_RowEvHandlerName="DT_PURowChangeEventHandler" msprop:Generator_TableClassName="DT_PUDataTable" msprop:Generator_TableVarName="tableDT_PU" msprop:Generator_RowDeletingName="DT_PURowDeleting" msprop:Generator_TablePropName="DT_PU">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODCLI" msprop:Generator_UserColumnName="CODCLI" msprop:Generator_ColumnVarNameInTable="columnCODCLI" msprop:Generator_ColumnPropNameInRow="CODCLI" msprop:Generator_ColumnPropNameInTable="CODCLIColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DNIRUC" msprop:Generator_UserColumnName="DNIRUC" msprop:Generator_ColumnVarNameInTable="columnDNIRUC" msprop:Generator_ColumnPropNameInRow="DNIRUC" msprop:Generator_ColumnPropNameInTable="DNIRUCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DESCLI" msprop:Generator_UserColumnName="DESCLI" msprop:Generator_ColumnVarNameInTable="columnDESCLI" msprop:Generator_ColumnPropNameInRow="DESCLI" msprop:Generator_ColumnPropNameInTable="DESCLIColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DIRECCION" msprop:Generator_UserColumnName="DIRECCION" msprop:Generator_ColumnVarNameInTable="columnDIRECCION" msprop:Generator_ColumnPropNameInRow="DIRECCION" msprop:Generator_ColumnPropNameInTable="DIRECCIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BASEIMPONIBLE" msprop:Generator_UserColumnName="BASEIMPONIBLE" msprop:Generator_ColumnVarNameInTable="columnBASEIMPONIBLE" msprop:Generator_ColumnPropNameInRow="BASEIMPONIBLE" msprop:Generator_ColumnPropNameInTable="BASEIMPONIBLEColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="CODPREDIO" msprop:Generator_UserColumnName="CODPREDIO" msprop:Generator_ColumnVarNameInTable="columnCODPREDIO" msprop:Generator_ColumnPropNameInRow="CODPREDIO" msprop:Generator_ColumnPropNameInTable="CODPREDIOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ANTIGUEDAD" msprop:Generator_UserColumnName="ANTIGUEDAD" msprop:Generator_ColumnVarNameInTable="columnANTIGUEDAD" msprop:Generator_ColumnPropNameInRow="ANTIGUEDAD" msprop:Generator_ColumnPropNameInTable="ANTIGUEDADColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CODMATERIAL" msprop:Generator_UserColumnName="CODMATERIAL" msprop:Generator_ColumnVarNameInTable="columnCODMATERIAL" msprop:Generator_ColumnPropNameInRow="CODMATERIAL" msprop:Generator_ColumnPropNameInTable="CODMATERIALColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORIAS" msprop:Generator_UserColumnName="CATEGORIAS" msprop:Generator_ColumnVarNameInTable="columnCATEGORIAS" msprop:Generator_ColumnPropNameInRow="CATEGORIAS" msprop:Generator_ColumnPropNameInTable="CATEGORIASColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VUNIT" msprop:Generator_UserColumnName="VUNIT" msprop:Generator_ColumnVarNameInTable="columnVUNIT" msprop:Generator_ColumnPropNameInRow="VUNIT" msprop:Generator_ColumnPropNameInTable="VUNITColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DPR" msprop:Generator_UserColumnName="DPR" msprop:Generator_ColumnVarNameInTable="columnDPR" msprop:Generator_ColumnPropNameInRow="DPR" msprop:Generator_ColumnPropNameInTable="DPRColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="MONTOD" msprop:Generator_UserColumnName="MONTOD" msprop:Generator_ColumnVarNameInTable="columnMONTOD" msprop:Generator_ColumnPropNameInRow="MONTOD" msprop:Generator_ColumnPropNameInTable="MONTODColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="VUD" msprop:Generator_UserColumnName="VUD" msprop:Generator_ColumnVarNameInTable="columnVUD" msprop:Generator_ColumnPropNameInRow="VUD" msprop:Generator_ColumnPropNameInTable="VUDColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="AREACONSTRUIDA" msprop:Generator_UserColumnName="AREACONSTRUIDA" msprop:Generator_ColumnVarNameInTable="columnAREACONSTRUIDA" msprop:Generator_ColumnPropNameInRow="AREACONSTRUIDA" msprop:Generator_ColumnPropNameInTable="AREACONSTRUIDAColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="VALORCONSTRUCCION" msprop:Generator_UserColumnName="VALORCONSTRUCCION" msprop:Generator_ColumnVarNameInTable="columnVALORCONSTRUCCION" msprop:Generator_ColumnPropNameInRow="VALORCONSTRUCCION" msprop:Generator_ColumnPropNameInTable="VALORCONSTRUCCIONColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="VALORTOTALCONSTRUCCION" msprop:Generator_UserColumnName="VALORTOTALCONSTRUCCION" msprop:Generator_ColumnVarNameInTable="columnVALORTOTALCONSTRUCCION" msprop:Generator_ColumnPropNameInRow="VALORTOTALCONSTRUCCION" msprop:Generator_ColumnPropNameInTable="VALORTOTALCONSTRUCCIONColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="MONTOARANCEL" msprop:Generator_UserColumnName="MONTOARANCEL" msprop:Generator_ColumnVarNameInTable="columnMONTOARANCEL" msprop:Generator_ColumnPropNameInRow="MONTOARANCEL" msprop:Generator_ColumnPropNameInTable="MONTOARANCELColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="VALORARANCEL" msprop:Generator_UserColumnName="VALORARANCEL" msprop:Generator_ColumnVarNameInTable="columnVALORARANCEL" msprop:Generator_ColumnPropNameInRow="VALORARANCEL" msprop:Generator_ColumnPropNameInTable="VALORARANCELColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="AREATOTAL" msprop:Generator_UserColumnName="AREATOTAL" msprop:Generator_ColumnVarNameInTable="columnAREATOTAL" msprop:Generator_ColumnPropNameInRow="AREATOTAL" msprop:Generator_ColumnPropNameInTable="AREATOTALColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ANNIO" msprop:Generator_UserColumnName="ANNIO" msprop:Generator_ColumnPropNameInRow="ANNIO" msprop:Generator_ColumnVarNameInTable="columnANNIO" msprop:Generator_ColumnPropNameInTable="ANNIOColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
